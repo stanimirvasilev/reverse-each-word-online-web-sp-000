@@ -4,5 +4,5 @@ array.each
   new_array << word.reverse
 new_array.joint(" ")
 end
-puts new_array
+puts reverse_each_word(string)
 end
