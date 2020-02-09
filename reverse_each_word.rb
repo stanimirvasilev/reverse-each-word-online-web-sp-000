@@ -4,5 +4,5 @@ return_array = []
 original_string_array.each do |string|
 return_array << string.reverse 
 end
-return_array.joint(" ")
+return_array.join(" ")
 end
