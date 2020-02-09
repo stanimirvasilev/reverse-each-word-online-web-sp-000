@@ -4,5 +4,5 @@ reversed = []
 reversed << split_string.reverse.each 
 reversed.joint(" ")
 end
-puts reverse_each_word(string)
+puts reversed
 end
